@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    border: 0;
+    background-image: url(../img/felixbonito.jpg);
+}
+.card-main{
+    margin: 50px;
+    border: 2px solid purple;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.organiza{
+  margin-top: 50px; 
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 50px;
+border: 2px solid purple;
+padding-left: 120px;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-right: 120px;
+}
+.organiza1{
+ display: flex;
+  flex-direction: row;
+}
+
+.organiza2{
+ display: flex;
+  flex-direction: row;
+}
